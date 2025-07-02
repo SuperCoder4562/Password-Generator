@@ -7,4 +7,4 @@ How to Use Password Generator:
 2. Inspect the website
 3. Open the console
 
-And there you have your password. If you want a different password, just reload the website and follow the steps
+And there you have your password. If you want a different password, just reload the website and follow the steps again!
